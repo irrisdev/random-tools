@@ -1,6 +1,6 @@
 [package]
 name = "date-calc-rs"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Oliver <oliver.d.333@proton.me"]
 description = "Given a number of days, calculates the date from today"

@@ -15,7 +15,7 @@ fn main() {
         .num_args(1);
 
     let app = Command::new("date-calc-rs")
-        .version("0.1")
+        .version("0.2.0")
         .about("Given a number of days, calculates the date from today")
         .arg(date_only_arg)
         .arg(days_arg)
