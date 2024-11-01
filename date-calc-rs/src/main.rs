@@ -14,7 +14,7 @@ fn main() {
         .required(true)
         .num_args(1);
 
-    let app = Command::new("addate")
+    let app = Command::new("date-calc-rs")
         .version("0.1")
         .about("Given a number of days, calculates the date from today")
         .arg(date_only_arg)
