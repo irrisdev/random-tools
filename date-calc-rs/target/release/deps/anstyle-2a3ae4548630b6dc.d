@@ -1,0 +1,12 @@
+/home/hitec/Development/github/random-tools/date-calc-rs/target/release/deps/libanstyle-2a3ae4548630b6dc.rmeta: /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs
+
+/home/hitec/Development/github/random-tools/date-calc-rs/target/release/deps/libanstyle-2a3ae4548630b6dc.rlib: /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs
+
+/home/hitec/Development/github/random-tools/date-calc-rs/target/release/deps/anstyle-2a3ae4548630b6dc.d: /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs /home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs
+
+/home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/lib.rs:
+/home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/macros.rs:
+/home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/color.rs:
+/home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/effect.rs:
+/home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/reset.rs:
+/home/hitec/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.9/src/style.rs:
